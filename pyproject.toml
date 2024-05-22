@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-modeldownloader"
+description = "A ComfyUI node to download models(Checkpoints and LoRA) from external links and act as an output standalone node."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/holchan/ComfyUI-ModelDownloader"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-ModelDownloader"
+Icon = ""
